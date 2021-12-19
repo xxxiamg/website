@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #f2e9e1;
+}
+
+
+.art-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+}
+
+.art-grid {
+    margin-top: 10px;
+    line-height: 150px;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.button {
+    text-align: center;
+}
+
+/*a:visited {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+.footer {
+    font-size: 30px;
+    padding: 10px;
+}*/
