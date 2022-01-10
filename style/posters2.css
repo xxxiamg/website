@@ -2,6 +2,7 @@ body {
     background-color: #523BFF;
     font-family: helvetica;
     font-size: 33px;
+    box-sizing: border-box;
 }
 
 .art-container {
