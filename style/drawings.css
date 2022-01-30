@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: helvetica;
+
+}
+
+
+.art-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.art-grid {
+    min-height: 50vh;
+    width: 370px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button {
+    text-align: center;
+}
