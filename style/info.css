@@ -8,25 +8,16 @@ body {
     font-family: helvetica;
 }
 
-h3 {
-    padding-top: 6px;
-    padding-left: 6px;
-    line-height: 1.5em;
+
+.bio {
+    padding: 10px;
 }
 
-.line {
-    border-bottom: 1px solid #f00;
-    /* Параметры линии */
+h1 {
+    text-transform: uppercase;
 }
 
-.list {
-    padding-left: 6px;
-    padding-top: 55px;
-    font-size: 17px;
-}
-
-
-.button {
-    padding-top: 90px;
-    text-align: center;
+p {
+    font-weight: bold;
+    font-size: 20px;
 }

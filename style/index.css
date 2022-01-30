@@ -1,7 +1,6 @@
  * {
      margin: 0;
      padding: 0;
-     box-sizing: border-box;
      font-family: helvetica;
  }
 
@@ -19,7 +18,7 @@
  .logo {
      padding-top: 6px;
      padding-left: 6px;
-     width: 37%;
+     width: 40%;
  }
 
  a {
@@ -31,22 +30,21 @@
  }
 
  .list {
-     position: relative;
+    position: fixed;
      padding-left: 6px;
-     position: fixed;
      font-weight: bold;
      font-size: 26px;
-     top: 80%;
+     top: 90%;
      left: 4px;
      text-transform: uppercase;
- }
+}
 
  li {
      list-style-type: none;
  }
 
 
- @media only screen and (max-width: 500px) {
+ /*@media only screen and (max-width: 500px) {
      body {
          background-color: #F09A9D;
      }
@@ -64,4 +62,4 @@
      body {
          background-color: #B2D6FF;
      }
- }
+ }*/

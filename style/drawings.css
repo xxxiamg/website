@@ -1,9 +1,14 @@
-body {
-    background-color: #523BFF;
-    font-family: helvetica;
-    font-size: 33px;
-    box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+
 }
+
+body {
+    font-family: helvetica;
+
+}
+
 
 .art-container {
     display: flex;
@@ -13,7 +18,7 @@ body {
 
 .art-grid {
     min-height: 50vh;
-    width: 400px;
+    width: 370px;
     max-width: 90%;
     margin: 0 auto;
     padding: 20px 0;
@@ -21,12 +26,6 @@ body {
     margin-top: 50px;
 }
 
-.manifesto {
-    padding-left: 20px;
-}
-
-
 .button {
-    padding-top: 20px;
     text-align: center;
 }
