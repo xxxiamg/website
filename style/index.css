@@ -30,11 +30,12 @@
  }
 
  .list {
+
      position: fixed;
      padding-left: 6px;
      font-weight: bold;
      font-size: 26px;
-     top: 83%;
+
      left: 4px;
      text-transform: uppercase;
  }
