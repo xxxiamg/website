@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.art-container {
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.art-grid {
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.button {
+    text-align: center;
+}

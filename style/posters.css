@@ -12,12 +12,6 @@
 }
 
 .art-grid {
-    min-height: 50vh;
-    width: 400px;
-    max-width: 90%;
-    margin: 0 auto;
-    padding: 20px 0;
-    text-align: center;
     margin-top: 50px;
 }
 

@@ -5,22 +5,23 @@
 
  }
 
- .info {
-     padding-top: 2px;
-     position: fixed;
-     text-transform: uppercase;
-     right: 0;
-     border: 2px double #7FFF00;
-     background: #7FFF00;
-     padding: 5px;
-     padding-bottom: 1000px;
- }
-
  .logo {
+     background-color: #DDE0E3;
      padding-top: 6px;
      padding-left: 6px;
      width: 30%;
+
  }
+
+ .info {
+     text-align: center;
+     position: fixed;
+     text-transform: uppercase;
+     right: 0;
+     background: #7FFF00;
+     padding: 5px 10px 700px 7px;
+ }
+
 
  a {
      position: relative;
@@ -31,17 +32,18 @@
  }
 
  .list {
-     
-     padding-left: 6px;
+
+     background-color: #B2D6FF;
+     padding: 10px 830px 10px 15px;
      font-weight: bold;
      font-size: 26px;
-     left: 4px;
      text-transform: uppercase;
-     margin-top: 30%;
+     margin-top: 27%;
+     float: left;
  }
 
  li {
-    
+
      list-style-type: none;
  }
 
