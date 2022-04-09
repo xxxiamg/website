@@ -7,8 +7,7 @@
 
  .logo {
      background-color: #DDE0E3;
-     padding-top: 6px;
-     padding-left: 6px;
+     padding: 10px 10px 10px 10px;
      width: 30%;
 
  }
@@ -38,7 +37,7 @@
      font-weight: bold;
      font-size: 26px;
      text-transform: uppercase;
-     margin-top: 27%;
+     margin-top: 26%;
      float: left;
  }
 
