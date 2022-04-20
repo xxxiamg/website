@@ -5,20 +5,13 @@
 
  }
 
- .logo {
-     background-color: #DDE0E3;
-     padding: 10px 10px 10px 10px;
-     width: 30%;
-
- }
 
  .info {
-     text-align: center;
      position: fixed;
      text-transform: uppercase;
      right: 0;
      background: #7FFF00;
-     padding: 5px 10px 700px 7px;
+     padding: 5px 10px 800px 7px;
  }
 
 
@@ -31,9 +24,7 @@
  }
 
  .list {
-
-     background-color: #B2D6FF;
-     padding: 10px 830px 10px 15px;
+     padding: 270px 200px 5px 5px;
      font-weight: bold;
      font-size: 26px;
      text-transform: uppercase;
