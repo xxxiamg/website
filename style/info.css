@@ -6,6 +6,8 @@
  }
 
 
+
+
  .info {
      position: fixed;
      text-transform: uppercase;
@@ -15,7 +17,7 @@
  }
 
  .bio {
-    padding: 5px;
+     padding: 5px;
  }
 
 
